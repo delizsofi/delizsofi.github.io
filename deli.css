@@ -1,0 +1,95 @@
+header{
+    background-color:#333333;
+}
+img{
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-bottom: 10px;
+}
+
+.links {
+    font-size: 12px;
+    font-style: normal;
+    float: right;
+    overflow: hidden;
+    padding-right: 10%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.links a{
+    margin: 15px;
+}
+
+.a{
+    color: #ff0099;
+}
+
+a:hover{
+    color: #ff0099;
+}
+
+a:active{
+    color: #ff0099;
+}
+
+a:visited{
+    color: #ff0099;
+    }
+
+
+body h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+body h2{
+    padding-left: 10%;
+    padding-right: 10%;
+
+    color: #ff0099;
+}
+
+body p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Consolas';
+    font-size: 16px;
+    
+    line-height: 1.6em;
+    font-size: 16px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+body{
+
+    background-image: url("./images/topography.png");
+    background-repeat: repeat;
+}
+
+.vonal {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 1%;
+    color: black;
+}
+
+.technology h1{
+    margin-bottom: 50px;
+    font-size: 26px;
+    text-align: center;
+}
+
+.technology h2{
+    color: black;
+    font-size: 22px;
+}
+
+.technology p{
+    font-size: 14px;
+
+}
