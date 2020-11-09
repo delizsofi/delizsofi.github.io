@@ -21,19 +21,19 @@ img{
     margin: 15px;
 }
 
-.a{
+a{
     color: #ff0099;
 }
 
-.a:hover{
+a:hover{
     color: #ff0099;
 }
 
-.a:active{
+a:active{
     color: #ff0099;
 }
 
-.a:visited{
+a:visited{
     color: #ff0099;
     }
 
